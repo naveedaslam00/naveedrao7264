@@ -1,0 +1,3 @@
+- 👋 Hi, I’m naveed
+- 👀 I’m interested in cyber world
+- 🌱 I’m currently learning cyber security
